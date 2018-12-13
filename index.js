@@ -1,5 +1,3 @@
 const randomWords = require('random-words');
 
-let randomString = randomWords({ exactly: 5, join: ' ' });
-
-module.exports = x => `${x}: ${randomString}`
+module.exports = x => `${x}: ${randomWords({ exactly: 5, join: ' ' })}`
