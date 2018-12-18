@@ -1,13 +1,13 @@
 {
   "name": "pfs-demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "A demo function that emits random words",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Neil Shannon",
+  "license": "MIT",
   "dependencies": {
     "random-words": "^1.1.0"
   }
