@@ -14,3 +14,6 @@ pfs function create randomwords --git-repo https://github.com/neilshannon/node-p
 ```
 pfs service invoke randomwords --text -- -w '\n' -d 'Your text here'
 ```
+
+## Docs:
+https://bit.ly/2QVsyxg
