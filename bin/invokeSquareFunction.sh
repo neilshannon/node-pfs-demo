@@ -1,0 +1,1 @@
+pfs service invoke square --text -- -w '\n' -d '7'
